@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=userikzhan)
 - 👋 Hi, I’m @userikzhan
 - 👀 I’m interested in data analysis, visualization and product analytics
 - 🌱 I’m currently learning various methods to collect and integrate open-source data, grinding my programming skills (Python, SQL, DAX, PowerQuery)
